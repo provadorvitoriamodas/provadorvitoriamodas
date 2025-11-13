@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of remover peça do catalogo funcionando",
+  "description": "An interactive clothing catalog for Vitoria Modas where users can virtually try on clothes by uploading their photo. The application also includes a password-protected admin panel for managing the catalog items.",
+  "requestFramePermissions": []
+}
